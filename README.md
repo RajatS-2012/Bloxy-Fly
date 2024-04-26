@@ -12,3 +12,8 @@ How to Play
 1) Use the spacebar key to make the box flap its wings and navigate through the pipes.
 2) Avoid crashing into the pipes or the ground.
 3) Keep flapping to see how far you can go and challenge your high score!
+
+This Project is completed by:
+1) Manas Goel
+2) Rajat Singh
+3) Pooja Malhotra
